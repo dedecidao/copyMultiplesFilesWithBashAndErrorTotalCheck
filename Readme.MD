@@ -15,3 +15,5 @@ sh batchCopy.sh
 
 Example Output:
 
+https://github.com/dedecidao/copyMultiplesFilesWithBashAndErrorTotalCheck/blob/main/outputExample.png
+
