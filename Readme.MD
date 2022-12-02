@@ -11,3 +11,7 @@ Copy the script to the root of the files you want to copy
 
 Run this script in the root folder with the files you want to copy
 
+sh batchCopy.sh
+
+Example Output:
+
