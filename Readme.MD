@@ -7,5 +7,7 @@ Copy Multiples Files Bash with Check Status (Total and Errors)
 
 Edit the Script with the origin and destination of the files.
 
+Copy the script to the root of the files you want to copy
+
 Run this script in the root folder with the files you want to copy
 
