@@ -1,4 +1,6 @@
-# ================ github: @dedecidao ==================== #
+Bash Script
+
+Batch copy With Bash
 Copy Multiples Files Bash with Check Status (Total and Errors)
 
 Instructions: 
