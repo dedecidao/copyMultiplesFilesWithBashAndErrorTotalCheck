@@ -15,5 +15,5 @@ sh batchCopy.sh
 
 Example Output:
 
-https://github.com/dedecidao/copyMultiplesFilesWithBashAndErrorTotalCheck/blob/main/outputExample.png
+<img src="https://raw.githubusercontent.com/dedecidao/copyMultiplesFilesWithBashAndErrorTotalCheck/main/outputExample.png" />
 
